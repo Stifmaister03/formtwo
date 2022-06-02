@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(154, 235, 171);
+}
+
+
+p{
+    color: black;
+}
+
+
+h3{
+    color: gray;
+    text-align: center;
+}
+
+
+h4{
+    color: gray;
+    text-align: center;
+}
+
+
+img{
+    height: 200px;
+    width: auto;
+}
